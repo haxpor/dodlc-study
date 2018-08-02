@@ -82,7 +82,7 @@ Clearly the project linked with the following sub-system (called "Addons") of Al
 
 `redo` can be obtained via [here](http://news.dieweltistgarnichtso.net/bin/redo-sh.html) (shell script version) or [here](http://jdebp.eu./Softwares/redo/) (in C++).
 
-## Under the hood
+## Under the Hood
 
 It is somewhat seems like a magic when you execute `./do` as it seems magically generate output objects and executable in `bin/` directory. But if you carefully look at the `do` script, it has some secret sauce.
 
