@@ -8,7 +8,7 @@ The study will cover the following areas
 	* [Under the Hood](a_installation.md#under-the-hood)
 	* [Compilation Quirks](a_insallation.md#compilation-quirks)
 * [Project Files Structure](b_fststmd.md)
-	* [Misc/miscellaneous](b_fststmd.md#main-miscellaneous)
+	* [Misc/miscellaneous](b_fststmd.md#mainmiscellaneous)
 	* [Game](b_fststmd.md#game)
 	* [Story](b_fststmd.md#story)
 	* [Interface](b_fststmd.md#interface)
