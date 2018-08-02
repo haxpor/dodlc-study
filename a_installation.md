@@ -51,6 +51,8 @@ and as well via `ls -1 /usr/local/opt/allegro/lib/liballegro*`
 
 I stripped out redundant `.dylib` with the same name left with only with name + version for clarity.
 
+Libraries located at `/usr/local/opt/allegro/lib/` seems to be a copy in which libraries at `/usr/local/lib` soft-linked to ones as installed by `brew` at `/usr/local/Cellar/allegro/5.2.4.0/lib`.
+
 Anyway, if you successfully compile the project, and try to peek which shared library the final binary depends on via `otool -L bin/libcirc` you will see the following output
 
 ```
