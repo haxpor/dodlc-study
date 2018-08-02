@@ -57,6 +57,8 @@ List of files according to its category along with brief detail (copied from com
 * `g_world_map_2.c` - map background
 * `g_header.h` - contains a vast amount of game data declarations
 
+## Story 
+
 > starts with h mostly because of its place in the alphabet
 
 * `h_interface.c` - story mode region selection interface
