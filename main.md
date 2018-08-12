@@ -37,3 +37,4 @@ The study will cover the following areas
 * Cloud Generation and Rendering (Fog of War)
 * Panel UI
 * Template Compilation
+* [Short Key](shortkeys.md)
